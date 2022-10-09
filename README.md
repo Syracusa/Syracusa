@@ -16,13 +16,16 @@
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for linux c application
  
-### VolatileTextEditor(C#, Windows)
+### [VolatileTextEditor](https://github.com/Syracusa/VolatileTextEditor)(C#, Windows)
  + Simple text editor but clean your works when you stop writing.
  
-### angular-boilerplate(Typescript/Angular)
+### [sy-angular-boilerplate](https://github.com/Syracusa/sy-angular-boilerplate)(Typescript/Angular)
  + Angular boilerplate code for make simple arcodian style webpage.
  + Use angular-material
- 
+
+### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)
+ + Openssl example codes
+
 ### (TBD)websocket-boilerplate(Python)
  + Python websocket boilerplate code for work with angular-boilerplate
  
