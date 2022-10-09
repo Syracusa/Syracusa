@@ -6,9 +6,9 @@
  + C#(for winform application)
  + Rust
  
-### Linux Kernel
+### Linux kernel
 ### Linux device driver
-### Tls Library
+### TLS library
  + OpenSSL
  + mbedtls
 
