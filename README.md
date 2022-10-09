@@ -23,7 +23,7 @@
  + Angular boilerplate code for make simple arcodian style webpage.
  + Use angular-material
 
-### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)
+### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
  + Openssl example codes
 
 ### (TBD)websocket-boilerplate(Python)
