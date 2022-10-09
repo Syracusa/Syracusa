@@ -13,8 +13,8 @@
  + mbedtls
 
 # Repositories
-### linux-c-boilerplate(C, Linux)
- + boilerplate codes for linux c application
+### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
+ + Boilerplate codes for linux c application
  
 ### VolatileTextEditor(C#, Windows)
  + Simple text editor but clean your works when you stop writing.
