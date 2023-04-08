@@ -40,7 +40,10 @@
 
 ### [sy-angular-boilerplate](https://github.com/Syracusa/sy-angular-boilerplate)(Typescript/Angular)
  + Angular boilerplate code for make simple arcodian style webpage.
+ + With default log panel in bottom
  + Use angular-material
+![Alt text](/static/angular-boilerplate.png?raw=true "angular-boilerplate.png")
+
 
 ### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
  + Openssl TLS connection example codes
