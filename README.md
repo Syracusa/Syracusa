@@ -22,6 +22,7 @@
 
 ### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
  + 3D simulator in web browser. In progress.
+![Alt text](/static/sy-3d-simulator.png?raw=true "sy-3d-simulator.png")
 
 ### [VolatileTextEditor](https://github.com/Syracusa/VolatileTextEditor)(C#, Windows)
  + Simple text editor but clean your works when you stop writing.
