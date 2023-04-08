@@ -35,6 +35,12 @@
  + Some beaglebone black device driver examples.
  + GPIO, Interrupt, pinmux
 
+### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
+ + Openssl TLS connection example codes
+
+### [sy-mbedtls-examples](https://github.com/Syracusa/sy-mbedtls-examples)(C, Linux)
+ + Mbedtls TLS connection example codes
+
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for linux c application.
 
@@ -44,12 +50,6 @@
  + Use angular-material
 ![Alt text](/static/angular-boilerplate.png?raw=true "angular-boilerplate.png")
 
-
-### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
- + Openssl TLS connection example codes
-
-### [sy-mbedtls-examples](https://github.com/Syracusa/sy-mbedtls-examples)(C, Linux)
- + Mbedtls TLS connection example codes
 
 <!--
 **Syracusa/Syracusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
