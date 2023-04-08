@@ -31,6 +31,10 @@
  + Show keyword search result with force-directed graph.
 ![Alt text](/static/source-graph.png?raw=true "source-graph.png")
 
+### [bbb-dd-examples](https://github.com/Syracusa/bbb-dd-examples)(C, Linux kernel, Beaglebone)
+ + Some beaglebone black device driver examples.
+ + GPIO, Interrupt, pinmux
+
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for linux c application.
 
