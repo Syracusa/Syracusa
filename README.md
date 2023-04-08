@@ -16,7 +16,7 @@
  + mbedtls
 
 # Repositories
-### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular)
+### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular/D3)
  + Make a graph with your github repository LOC.
 ![Alt text](/static/git-loc-viewer.png?raw=true "git-loc-viewer.png")
 
@@ -28,7 +28,7 @@
  + Simple text editor but clean your works when you stop writing.
 ![Alt text](/static/volatile-text-editor.png?raw=true "volatile-text-editor.png")
 
-### [source-graph](https://github.com/Syracusa/source-graph)(Python, Javascript)
+### [source-graph](https://github.com/Syracusa/source-graph)(Python, Javascript/D3)
  + Show keyword search result with force-directed graph.
 ![Alt text](/static/source-graph.png?raw=true "source-graph.png")
 
