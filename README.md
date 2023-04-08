@@ -41,6 +41,10 @@
 ### [sy-mbedtls-examples](https://github.com/Syracusa/sy-mbedtls-examples)(C, Linux)
  + Mbedtls TLS connection example codes
 
+### [sy-timerqueue](https://github.com/Syracusa/sy-timerqueue)(C, Linux)
+ + Timerqueue implementation with red-black tree. 
+ + Red-black tree implementation was taken from freebsd repository.
+
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for linux c application.
 
