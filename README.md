@@ -3,11 +3,10 @@
 
 # Interest
 ### Programming language
- + C/CPP
+ + C
  + Python
  + Typescript(with angular)
  + C#(for winform application)
- + Rust
  
 ### Linux kernel
 ### Linux device driver
