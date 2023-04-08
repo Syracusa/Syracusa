@@ -16,27 +16,33 @@
  + mbedtls
 
 # Repositories
+### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular)
+ + Make a graph with your github repository LOC.
+![Alt text](/static/git-loc-viewer.png?raw=true "git-loc-viewer.png")
+
+### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
+ + 3D simulator in web browser. In progress.
+
+### [VolatileTextEditor](https://github.com/Syracusa/VolatileTextEditor)(C#, Windows)
+ + Simple text editor but clean your works when you stop writing.
+![Alt text](/static/volatile-text-editor.png?raw=true "volatile-text-editor.png")
+
 ### [source-graph](https://github.com/Syracusa/source-graph)(Python, Javascript)
  + Show keyword search result with force-directed graph.
+![Alt text](/static/source-graph.png?raw=true "source-graph.png")
 
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for linux c application.
- 
-### [VolatileTextEditor](https://github.com/Syracusa/VolatileTextEditor)(C#, Windows)
- + Simple text editor but clean your works when you stop writing.
- 
+
 ### [sy-angular-boilerplate](https://github.com/Syracusa/sy-angular-boilerplate)(Typescript/Angular)
  + Angular boilerplate code for make simple arcodian style webpage.
  + Use angular-material
 
 ### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
- + Openssl example codes
+ + Openssl TLS connection example codes
 
-### (TBD)websocket-boilerplate(Python)
- + Python websocket boilerplate code for work with angular-boilerplate
- 
-### (TBD)piapi(C)
- + Platform-independent API
+### [sy-mbedtls-examples](https://github.com/Syracusa/sy-mbedtls-examples)(C, Linux)
+ + Mbedtls TLS connection example codes
 
 <!--
 **Syracusa/Syracusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
