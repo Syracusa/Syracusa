@@ -1,27 +1,28 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syracusa)](https://github.com/anuraghazra/github-readme-stats)
 
-
 # Interest
 ### Programming language
- + C
- + Python
- + Typescript(with angular)
- + C#(for winform application)
- 
-### Linux kernel
-### Linux device driver
-### TLS library
- + OpenSSL
- + mbedtls
++ C
++ Javascript(Also typescript)
++ Python
+
+### Framework
++ Angular for SPA
++ ElectronJS for Desktop Application
++ Spring for building REST server.
+
+### Library
++ MbedTLS & OpenSSL for TLS
++ BabylonJS & ThreeJS for 3D simulation
 
 # Repositories
-### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular/D3)
- + Make a graph with your github repository LOC.
-![Alt text](/static/git-loc-viewer.png?raw=true "git-loc-viewer.png")
-
 ### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
  + 3D simulator in web browser. In progress.
 ![Alt text](/static/sy-3d-simulator.png?raw=true "sy-3d-simulator.png")
+
+### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular/D3)
+ + Make a graph with your github repository LOC.
+![Alt text](/static/git-loc-viewer.png?raw=true "git-loc-viewer.png")
 
 ### [VolatileTextEditor](https://github.com/Syracusa/VolatileTextEditor)(C#, Windows)
  + Simple text editor but clean your works when you stop writing.
@@ -54,18 +55,3 @@
  + Use angular-material
 ![Alt text](/static/angular-boilerplate.png?raw=true "angular-boilerplate.png")
 
-
-<!--
-**Syracusa/Syracusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
