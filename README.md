@@ -19,7 +19,7 @@
 ### Realtime FANET Simulation
 + [dronesim](https://github.com/Syracusa/dronesim)(Typescript/Electron/Babylon.js)
 + [sy-netsim](https://github.com/Syracusa/sy-netsim)(Linux C)
-![Alt text](/static/sy-3d-simulator.png?raw=true "fanetsim.png")
+![Alt text](/static/fanetsim.png?raw=true "fanetsim.png")
 
 
 ### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
