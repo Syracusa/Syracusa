@@ -17,10 +17,9 @@
 
 # Repositories
 ### Realtime FANET Simulation
-+ [dronesim](https://github.com/Syracusa/dronesim)(Typescript/Electron/Babylon.js)
-+ [sy-netsim](https://github.com/Syracusa/sy-netsim)(Linux C)
++ [dronesim](https://github.com/Syracusa/dronesim)(Typescript/Electron/ElectronForge/Babylon.js)
++ [sy-netsim](https://github.com/Syracusa/sy-netsim)(C/CMake/Linux)
 ![Alt text](/static/fanetsim.png?raw=true "fanetsim.png")
-
 
 ### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
  + 3D simulator in web browser. In progress.
