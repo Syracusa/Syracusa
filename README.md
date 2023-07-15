@@ -5,10 +5,6 @@
 + [sy-netsim](https://github.com/Syracusa/sy-netsim)(C/CMake/Linux)
 ![Alt text](/static/fanetsim.png?raw=true "fanetsim.png")
 
-### [sy-3d-simulator](https://github.com/Syracusa/sy-3d-simulator)(Javascript/Three.js)
- + 3D simulator in web browser. In progress.
-![Alt text](/static/sy-3d-simulator.png?raw=true "sy-3d-simulator.png")
-
 ### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular/D3)
  + Make a graph with your github repository LOC.
 ![Alt text](/static/git-loc-viewer.png?raw=true "git-loc-viewer.png")
