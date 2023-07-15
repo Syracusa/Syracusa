@@ -1,8 +1,8 @@
 
 # Repositories
 ### Realtime FANET Simulation
-##### [dronesim](https://github.com/Syracusa/dronesim)(Typescript/Electron/ElectronForge/Babylon.js)
-##### [sy-netsim](https://github.com/Syracusa/sy-netsim)(C/CMake/Linux)
+### [dronesim](https://github.com/Syracusa/dronesim)(Typescript/Electron/ElectronForge/Babylon.js)
+### [sy-netsim](https://github.com/Syracusa/sy-netsim)(C/CMake/Linux)
 ![Alt text](/static/fanetsim.png?raw=true "fanetsim.png")
 
 ### [GitLocViewer](https://github.com/Syracusa/git-loc-viewer)(Python, Typescript/Angular/D3)
