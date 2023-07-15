@@ -29,7 +29,7 @@
 
 ### [sy-timerqueue](https://github.com/Syracusa/sy-timerqueue)(C, Linux)
  + Timerqueue implementation with red-black tree. 
- + Red-black tree implementation is taken from freebsd repository.
+ + Red-black tree implementation is taken from FreeBSD repository.
 
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
  + Boilerplate codes for Linux C application.
@@ -54,6 +54,6 @@
 
 ### Library
 + MbedTLS & OpenSSL for TLS
-+ BabylonJS & ThreeJS for 3D simulation
++ BabylonJS & ThreeJS & CesiumJS for 3D simulation
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syracusa)](https://github.com/anuraghazra/github-readme-stats)
