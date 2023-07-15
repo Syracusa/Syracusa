@@ -18,7 +18,7 @@
 ![Alt text](/static/source-graph.png?raw=true "source-graph.png")
 
 ### [bbb-dd-examples](https://github.com/Syracusa/bbb-dd-examples)(C, Linux kernel, Beaglebone)
- + Some beaglebone black device driver examples.
+ + Some Beaglebone black device driver examples.
  + GPIO, Interrupt, pinmux
 
 ### [my-openssl-examples](https://github.com/Syracusa/my-openssl-examples)(C, Linux)
@@ -29,15 +29,15 @@
 
 ### [sy-timerqueue](https://github.com/Syracusa/sy-timerqueue)(C, Linux)
  + Timerqueue implementation with red-black tree. 
- + Red-black tree implementation was taken from freebsd repository.
+ + Red-black tree implementation is taken from freebsd repository.
 
 ### [linux-c-boilerplate](https://github.com/Syracusa/linux-c-boilerplate)(C, Linux)
- + Boilerplate codes for linux c application.
+ + Boilerplate codes for Linux C application.
 
 ### [sy-angular-boilerplate](https://github.com/Syracusa/sy-angular-boilerplate)(Typescript/Angular)
- + Angular boilerplate code for make simple arcodian style webpage.
+ + Angular boilerplate code for making simple arcodian style webpage.
  + With default log panel in bottom
- + Use angular-material
+ + Using angular-material
 ![Alt text](/static/angular-boilerplate.png?raw=true "angular-boilerplate.png")
 
 
