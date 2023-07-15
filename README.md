@@ -1,19 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syracusa)](https://github.com/anuraghazra/github-readme-stats)
-
-# Interest
-### Programming language
-+ C
-+ Javascript(Also typescript)
-+ Python
-
-### Framework
-+ Angular for SPA
-+ ElectronJS for Desktop Application
-+ Spring for building REST server.
-
-### Library
-+ MbedTLS & OpenSSL for TLS
-+ BabylonJS & ThreeJS for 3D simulation
 
 # Repositories
 ### Realtime FANET Simulation
@@ -60,3 +44,20 @@
  + Use angular-material
 ![Alt text](/static/angular-boilerplate.png?raw=true "angular-boilerplate.png")
 
+
+# Interest
+### Programming language
++ C
++ Javascript(Also typescript)
++ Python
+
+### Framework
++ Angular for SPA
++ ElectronJS for Desktop Application
++ Spring for building REST server.
+
+### Library
++ MbedTLS & OpenSSL for TLS
++ BabylonJS & ThreeJS for 3D simulation
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syracusa)](https://github.com/anuraghazra/github-readme-stats)
